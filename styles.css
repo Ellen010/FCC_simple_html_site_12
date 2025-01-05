@@ -20,12 +20,20 @@ body {
   border-radius: 46%;
 }
 
-.cat-right-ear {
-  height: 100px;
-  width: 100px;
-  background-color: white;
-  border-left: 35px solid blue;
-  border-right: 35px solid blue;
-  border-top: 35px solid red;
-  border-bottom: 35px solid red;
+.cat-left-ear {
+  position: absolute;
+  top: -26px;
+  left: -31px;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 10px;
+  transform: rotate(-45deg);
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+  border-bottom: 70px solid #5e5e5e;
+}
+
+.cat-right-ear{
+  border-right:35px solid transparent;
+  border-left:35px solid transparent;
+  border-bottom:
 }
