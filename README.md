@@ -1,6 +1,6 @@
-Basic HTML page and CSS that includes:
+Basic HTML and CSS page that includes:
 
--transform, 
+-absolute positioning, 
 
 -width and height,
 
@@ -8,11 +8,11 @@ Basic HTML page and CSS that includes:
 
 -border,
 
+-transform property
+
 -and z-index
 
 application. 
-
-
 
 
 
