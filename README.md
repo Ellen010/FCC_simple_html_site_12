@@ -1,9 +1,15 @@
-Basic HTML page and CSS that includes
+Basic HTML page and CSS that includes:
+
 -transform, 
+
 -width and height,
+
 -background-color,
+
 -border,
+
 -and z-index
+
 application. 
 
 
